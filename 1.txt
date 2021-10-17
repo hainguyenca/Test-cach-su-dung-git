@@ -1,2 +1,6 @@
 1.txt
+<<<<<<< HEAD
 3.txt offline
+=======
+2.txt
+>>>>>>> c50fb58a62643765043960ec0671dbbe0bc31d78
